@@ -2,7 +2,7 @@
 * Mail : redsnow78@gmail.com
 
 # 이력서
-* GitHub : https://github.com/joonHyoung
+* GitHub : https://github.com/joonHyoung/resume
 
 # 학력사항
 * 상명대학교/전자계산전공(서울) 1997.03 ~ 2004.02
