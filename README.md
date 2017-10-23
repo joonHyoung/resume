@@ -1,9 +1,40 @@
 # 이준형 Lee JoonHyoung
-> Mail : redsnow78@gmail.com
+* Mail : redsnow78@gmail.com
+* 병역사항 : 육군 병장 현역 만기제대
 
 # 이력서
-> GitHub : https://github.com/joonHyoung
+* GitHub : https://github.com/joonHyoung
 
-# 경력
-Link: [Google][googlelink]
-[googlelink]: https://google.com "Go google"
+# 학력사항
+* 상명대학교/전자계산전공(서울) 1997.03 ~ 2004.02
+
+# 경력사항
+> [(주)라츠온](http://www.lots-on.co.kr)
+>* 2016.05 ~ now
+>* iOS 개발 및 유지보수 담당
+
+> (주)VICC
+>* 2013.05 ~ 2016.04
+>* iOS 개발 및 유지보수 담당
+>* (주)VICC 회사 분할설립으로 사명 변경([(주)라츠온](http://www.lots-on.co.kr))
+
+> (주)인비트소프트
+>* 2011.01 ~ 2013.04
+>* iOS 개발 및 유지보수 담당
+>* Web 사이트 개발 및 유지보수 담당
+>* [(주)인픽스](http://www.inpix.com)의 프로그램 개발 자회사
+
+> [(주)로시스정보기술](http://www.rosis.co.kr/)
+>* 2008.05 ~ 2010.12
+>* VB 및 C# 개발 및 유지보수 담당
+
+> (주)현대INC
+>* 2005.09 ~ 2008.04
+>* VB 개발 및 유지보수 담당
+>* Server 유지보수 담당
+
+> (주)하이넷텍
+>* 2004.03 ~ 2005.08
+>* PHP 웹사이트 개발 및 유지보수 담당
+
+
