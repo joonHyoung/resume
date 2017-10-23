@@ -1,3 +1,9 @@
-# resume
-# 여기다 다시 작성
-# 이제 될려나
+# 이준형 Lee JoonHyoung
+> Mail : redsnow78@gmail.com
+
+# 이력서
+> GitHub : https://github.com/joonHyoung
+
+# 경력
+Link: [Google][googlelink]
+[googlelink]: https://google.com "Go google"
