@@ -60,7 +60,7 @@
 >* 2015.05 ~ 2015.11
 >* iOS APP 개발 - 메인화면 및 통신, 암호화 모듈 담당 (Object-c)
 >* [App Store](https://itunes.apple.com/kr/app/id1031843830?mt=8) - https://itunes.apple.com/kr/app/id1031843830?mt=8
->* [스마트앱 어워드 2015 "신용카드분야" 대상](http://www.i-award.or.kr/Smart/Prize/2015/Awarded01.aspx) - http://www.i-award.or.kr/Smart/Prize/2015/Awarded01.aspx
+>* [스마트앱 어워드 2015 "신용카드분야" 대상](http://www.i-award.or.kr/Smart/Prize/2015/Awarded01.aspx)
 
 > 우리은행 - 연세대학교 모바일 학생증 APP 구축
 >* 2015.01 ~ 2015.04
@@ -70,7 +70,7 @@
 > NH농협 - 모바일 앱카드 구축 및 고도화
 >* 2013.05 ~ 2013.12 / 2014.09 ~ 2014.12
 >* iOS APP 개발 (Object-c)
->* 이전 버전 그림
+>* 새 버전으로 업데이트 됨.
 
 > 현대카드 - 차세대 프로젝트
 >* 2014.02 ~ 2014.08 
