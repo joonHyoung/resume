@@ -60,7 +60,7 @@
 >* 2015.05 ~ 2015.11
 >* iOS APP 개발 - 메인화면 및 통신, 암호화 모듈 담당 (Objective-c)
 >* [App Store](https://itunes.apple.com/kr/app/id1031843830?mt=8) - https://itunes.apple.com/kr/app/id1031843830?mt=8
->* [스마트앱 어워드 2015 "신용카드분야" 대상](http://www.i-award.or.kr/Smart/Prize/2015/Awarded01.aspx)
+>* [스마트앱 어워드 2015 "신용카드분야" 대상 ](http://www.i-award.or.kr/Smart/Prize/2015/Awarded01.aspx)
 
 > 우리은행 - 연세대학교 모바일 학생증 APP 구축
 >* 2015.01 ~ 2015.04
