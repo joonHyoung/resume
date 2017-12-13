@@ -43,12 +43,12 @@
 # 프로젝트
 > 에스원 - 모바일 내방객 APP 구축
 >* 2017.04 ~ 2017.11
->* iOS APP 개발 (Object-c)
+>* iOS APP 개발 (Objective-c)
 >* Enterprise 사내 배포
 
 > 우리카드 - 우리페이 APP 구축
 >* 2016.09 ~ 2017.03 
->* iOS APP 개발 및 외부라이러리 업체 리딩 (Object-c)
+>* iOS APP 개발 및 외부라이러리 업체 리딩 (Objective-c)
 >* [App Store](https://itunes.apple.com/kr/app/id1201113419?mt=8) - https://itunes.apple.com/kr/app/id1201113419?mt=8
 
 > 우리은행 - 태블릿브렌치 APP 구축
@@ -58,18 +58,18 @@
 
 > 현대백화점 - 전자지갑 APP 구축
 >* 2015.05 ~ 2015.11
->* iOS APP 개발 - 메인화면 및 통신, 암호화 모듈 담당 (Object-c)
+>* iOS APP 개발 - 메인화면 및 통신, 암호화 모듈 담당 (Objective-c)
 >* [App Store](https://itunes.apple.com/kr/app/id1031843830?mt=8) - https://itunes.apple.com/kr/app/id1031843830?mt=8
 >* [스마트앱 어워드 2015 "신용카드분야" 대상](http://www.i-award.or.kr/Smart/Prize/2015/Awarded01.aspx)
 
 > 우리은행 - 연세대학교 모바일 학생증 APP 구축
 >* 2015.01 ~ 2015.04
->* iOS APP 개발 (Object-c)
+>* iOS APP 개발 (Objective-c)
 >* [App Store](https://itunes.apple.com/kr/app/id1026609372?mt=8) - https://itunes.apple.com/kr/app/id1026609372?mt=8
 
 > NH농협 - 모바일 앱카드 구축 및 고도화
 >* 2013.05 ~ 2013.12 / 2014.09 ~ 2014.12
->* iOS APP 개발 (Object-c)
+>* iOS APP 개발 (Objective-c)
 >* 새 버전으로 업데이트 됨.
 
 > 현대카드 - 차세대 프로젝트
@@ -78,21 +78,21 @@
 
 > 파라다이스 - 그룹 모바일 APP 구축
 >* 2013.03 ~ 2013.04
->* iOS APP 개발 (Object-c)
+>* iOS APP 개발 (Objective-c)
 
 > 현대상선 - 모바일 APP 구축
 >* 2012.11 ~ 2013.02
->* iOS APP 개발 (Object-c)
+>* iOS APP 개발 (Objective-c)
 >* [App Store](https://itunes.apple.com/kr/app/id590402800?mt=8) - https://itunes.apple.com/kr/app/id590402800?mt=8
 
 > 온세통신 - 스노우맨 고객센터 모바일 APP 구축
 >* 2012.09 ~ 2012.11
->* iOS APP 개발 (Object-c)
+>* iOS APP 개발 (Objective-c)
 >* [App Store](https://itunes.apple.com/kr/app/id661606972?mt=8) - https://itunes.apple.com/kr/app/id661606972?mt=8
 
 > 인픽스 - 메가주소록 모바일 APP 구축
 >* 2012.07 ~ 2012.08
->* iOS APP 개발 (Object-c)
+>* iOS APP 개발 (Objective-c)
 >* [App Store](https://itunes.apple.com/kr/app/id540276365?&mt=8) - https://itunes.apple.com/kr/app/id540276365?&mt=8
 
 > 세종문화회관 - 웹사이트 및 패밀리 사이트 운영
@@ -101,11 +101,11 @@
 
 > 한국디지털협회 - 주소록 모바일 APP 구축
 >* 2012.02 ~ 2012.04
->* iOS APP 개발 (Object-c)
+>* iOS APP 개발 (Objective-c)
 
 > CJ헬로비전 - 티빙 모바일 앱 유지보수
 >* 2011.10 ~ 2011.11
->* iOS APP 유지보수 (Object-c)
+>* iOS APP 유지보수 (Objective-c)
 
 > LG전자 - LSM 프로젝트
 >* 2011.08 ~ 2011.09
