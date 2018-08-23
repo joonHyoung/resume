@@ -41,6 +41,11 @@
 
 
 # 프로젝트
+> 성균관대학교 - KINGO-M APP 구축
+>* 2018.02 ~ 2018.07
+>* iOS APP 개발 (Objective-c)
+>* [App Store](https://itunes.apple.com/kr/app/id1387421861?mt=8) - https://itunes.apple.com/kr/app/id1387421861?mt=8
+
 > 에스원 - 모바일 내방객 APP 구축
 >* 2017.04 ~ 2017.11
 >* iOS APP 개발 (Objective-c)
