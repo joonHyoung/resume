@@ -41,12 +41,17 @@
 
 
 # 프로젝트
+> 우리은행 - 통합모바일ID APP 구축
+>* 2019.04 ~ 2019.09
+>* iOS APP 개발 (Objective-c)
+>* [App Store](https://apps.apple.com/kr/app/%EB%82%B4-%EC%86%90-%EC%95%88%EC%97%90-id-%EC%B9%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B0%EB%A6%AC-%EB%AA%A8%EB%B0%94%EC%9D%BC-id/id1481547453) - https://apps.apple.com/kr/app/내-손-안에-id-카드-서비스-우리-모바일-id/id1481547453
+
 > 우리은행 - 서울대학교 모바일카드 APP 구축
 >* 2018.11 ~ 2019.03
 >* iOS APP 개발 (Objective-c)
 >* [App Store](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-app/id480622894) - https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-app/id480622894
 
-> 성균관대학교 - KINGO-M APP 구축
+> 우리은행 - 성균관대학교 KINGO-M APP 구축
 >* 2018.02 ~ 2018.07
 >* iOS APP 개발 (Objective-c)
 >* [App Store](https://itunes.apple.com/kr/app/id1387421861?mt=8) - https://itunes.apple.com/kr/app/id1387421861?mt=8
