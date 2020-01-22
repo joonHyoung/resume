@@ -41,6 +41,11 @@
 
 
 # 프로젝트
+> 우리은행 - 서울대학교 모바일카드 APP 구축
+>* 2018.11 ~ 2019.03
+>* iOS APP 개발 (Objective-c)
+>* [App Store](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-app/id480622894) - https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-app/id480622894
+
 > 성균관대학교 - KINGO-M APP 구축
 >* 2018.02 ~ 2018.07
 >* iOS APP 개발 (Objective-c)
