@@ -41,6 +41,16 @@
 
 
 # 프로젝트
+> 아주대학교 - 통합모바일ID APP 구축 ( 모바일학생증 Framework 개발 )
+>* 2019.11 ~ 2020.03
+>* iOS APP 개발 (Swift, Objective-c)
+>* [App Store](https://apps.apple.com/kr/app/%EB%82%B4-%EC%86%90-%EC%95%88%EC%97%90-id-%EC%B9%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B0%EB%A6%AC-%EB%AA%A8%EB%B0%94%EC%9D%BC-id/id1481547453) - https://apps.apple.com/kr/app/내-손-안에-id-카드-서비스-우리-모바일-id/id1481547453
+
+> 단국대학교 - 통합모바일ID APP 구축 ( 모바일학생증 Framework 개발 )
+>* 2019.11 ~ 2020.03
+>* iOS APP 개발 (Swift, Objective-c)
+>* [App Store](https://apps.apple.com/kr/app/%EB%82%B4-%EC%86%90-%EC%95%88%EC%97%90-id-%EC%B9%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B0%EB%A6%AC-%EB%AA%A8%EB%B0%94%EC%9D%BC-id/id1481547453) - https://apps.apple.com/kr/app/내-손-안에-id-카드-서비스-우리-모바일-id/id1481547453
+
 > 우리은행 - 통합모바일ID APP 구축
 >* 2019.04 ~ 2019.09
 >* iOS APP 개발 (Objective-c)
