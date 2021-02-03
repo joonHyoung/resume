@@ -41,6 +41,11 @@
 
 
 # 프로젝트
+> 우리카드 - 우리카드 APP 구축 
+>* 2020.07 ~ 2020.12
+>* iOS APP 개발 (Swift)
+>* [App Store](https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EC%B9%B4%EB%93%9C/id1499598869) - https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EC%B9%B4%EB%93%9C/id1499598869
+
 > 아주대학교 - 통합모바일ID APP 구축 ( 모바일학생증 Framework 개발 )
 >* 2019.11 ~ 2020.03
 >* iOS APP 개발 (Swift, Objective-c)
