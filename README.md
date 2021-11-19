@@ -41,6 +41,11 @@
 
 
 # 프로젝트
+> 우리카드 - 우리카드 APP 마이데이터 구축
+>* 2021.03 ~ 2021.09
+>* iOS APP 개발 (Swift)
+>* [App Store](https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EC%B9%B4%EB%93%9C/id1499598869) - https://apps.apple.com/kr/app/우리카드/id1499598869
+
 > 우리카드 - 우리카드 APP 구축 
 >* 2020.07 ~ 2020.12
 >* iOS APP 개발 (Swift)
