@@ -1,4 +1,5 @@
 # 이준형 Lee JoonHyoung 
+* Blog : https://joonhyoung.github.io
 * Mail : redsnow78@gmail.com
 
 # 이력서
@@ -44,36 +45,46 @@
 > 우리카드 - 우리카드 APP 마이데이터 구축
 >* 2021.03 ~ 2021.12
 >* iOS APP 개발 (Swift)
->* [App Store](https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EC%B9%B4%EB%93%9C/id1499598869) - https://apps.apple.com/kr/app/우리카드/id1499598869
+> - Cordova 를 이용한 web to app 연동 구현
+> - 카드, 은행, 보험, 증권 등 금융권 130여개 기관 자산 연동 
+>* [App Store 에서 보기](https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EC%B9%B4%EB%93%9C/id1499598869)
 
 > 우리카드 - 우리카드 APP 구축 
 >* 2020.07 ~ 2020.12
 >* iOS APP 개발 (Swift)
->* [App Store](https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EC%B9%B4%EB%93%9C/id1499598869) - https://apps.apple.com/kr/app/우리카드/id1499598869
+> - 우리카드 Ver 2.0 리뉴얼 OPEN
+> - 기존 Object-c 에서 swift 로 리뉴얼
+> - Cordova 를 이용한 web to app 연동 구현
+>* [App Store 에서 보기](https://apps.apple.com/kr/app/%EC%9A%B0%EB%A6%AC%EC%B9%B4%EB%93%9C/id1499598869)
 
-> 아주대학교 - 통합모바일ID APP 구축 ( 모바일학생증 Framework 개발 )
+> 아주대학교 - 통합모바일ID APP 구축
 >* 2019.11 ~ 2020.03
 >* iOS APP 개발 (Swift, Objective-c)
->* [App Store](https://apps.apple.com/kr/app/%EC%95%84%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90-%ED%86%B5%ED%95%A9-%EB%AA%A8%EB%B0%94%EC%9D%BC/id1500392124) - https://apps.apple.com/kr/app/아주대학교-통합-모바일/id1500392124
+> - 모바일학생증 Framework 개발 및 배포
+>* [App Store 에서 보기](https://apps.apple.com/kr/app/%EC%95%84%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90-%ED%86%B5%ED%95%A9-%EB%AA%A8%EB%B0%94%EC%9D%BC/id1500392124)
 
-> 단국대학교 - 통합모바일ID APP 구축 ( 모바일학생증 Framework 개발 )
+> 단국대학교 - 통합모바일ID APP 구축
 >* 2019.11 ~ 2020.03
 >* iOS APP 개발 (Swift, Objective-c)
->* [App Store](https://apps.apple.com/kr/app/%EB%8B%A8%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90/id405020237) - https://apps.apple.com/kr/app/단국대학교/id405020237
+> - 모바일학생증 Framework 개발 및 배포
+>* [App Store 에서 보기](https://apps.apple.com/kr/app/%EB%8B%A8%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90/id405020237)
 
-> 우리은행 - 통합모바일ID APP 구축
+> 우리은행 - 내 손 안에 ID 카드 서비스, 우리 모바일 ID
 >* 2019.04 ~ 2019.09
 >* iOS APP 개발 (Objective-c)
+> - 대고객 서비스 용 APP 개발 및 App Store 등록
 >* [App Store](https://apps.apple.com/kr/app/%EB%82%B4-%EC%86%90-%EC%95%88%EC%97%90-id-%EC%B9%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B0%EB%A6%AC-%EB%AA%A8%EB%B0%94%EC%9D%BC-id/id1481547453) - https://apps.apple.com/kr/app/내-손-안에-id-카드-서비스-우리-모바일-id/id1481547453
 
 > 우리은행 - 서울대학교 모바일카드 APP 구축
 >* 2018.11 ~ 2019.03
 >* iOS APP 개발 (Objective-c)
+> - 서울대학교 용 APP 개발 및 App Store 등록
 >* [App Store](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-app/id480622894) - https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-app/id480622894
 
 > 우리은행 - 성균관대학교 KINGO-M APP 구축
 >* 2018.02 ~ 2018.07
 >* iOS APP 개발 (Objective-c)
+> - 서울대학교 용 APP 개발 및 App Store 등록
 >* [App Store](https://itunes.apple.com/kr/app/id1387421861?mt=8) - https://itunes.apple.com/kr/app/id1387421861?mt=8
 
 > 에스원 - 모바일 내방객 APP 구축
@@ -84,6 +95,7 @@
 > 우리카드 - 우리페이 APP 구축
 >* 2016.09 ~ 2017.03 
 >* iOS APP 개발 및 외부라이러리 업체 리딩 (Objective-c)
+> - 대고객(약 400만명)을 위한 우리페이 1.0 서비스 오픈
 >* [App Store](https://itunes.apple.com/kr/app/id1201113419?mt=8) - https://itunes.apple.com/kr/app/id1201113419?mt=8
 
 > 우리은행 - 태블릿브렌치 APP 구축
@@ -93,19 +105,21 @@
 
 > 현대백화점 - 전자지갑 APP 구축
 >* 2015.05 ~ 2015.11
->* iOS APP 개발 - 메인화면 및 통신, 암호화 모듈 담당 (Objective-c)
+>* iOS APP 개발 
+> - 메인화면 및 통신, 암호화 모듈 담당 (Objective-c)
 >* [App Store](https://itunes.apple.com/kr/app/id1031843830?mt=8) - https://itunes.apple.com/kr/app/id1031843830?mt=8
 >* [스마트앱 어워드 2015 "신용카드분야" 대상 ](http://www.i-award.or.kr/Smart/Prize/2015/Awarded01.aspx)
 
 > 우리은행 - 연세대학교 모바일 학생증 APP 구축
 >* 2015.01 ~ 2015.04
 >* iOS APP 개발 (Objective-c)
+> - 연세대학교 용 APP 개발 및 App Store 등록
 >* [App Store](https://itunes.apple.com/kr/app/id1026609372?mt=8) - https://itunes.apple.com/kr/app/id1026609372?mt=8
 
 > NH농협 - 모바일 앱카드 구축 및 고도화
 >* 2013.05 ~ 2013.12 / 2014.09 ~ 2014.12
 >* iOS APP 개발 (Objective-c)
->* 새 버전으로 업데이트 됨.
+> - 모바일 앱카드 업계 최초 오픈 
 
 > 현대카드 - 차세대 프로젝트
 >* 2014.02 ~ 2014.08 
