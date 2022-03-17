@@ -73,19 +73,19 @@
 >* 2019.04 ~ 2019.09
 >* iOS APP 개발 (Objective-c)
 > - 대고객 서비스 용 APP 개발 및 App Store 등록
->* [App Store](https://apps.apple.com/kr/app/%EB%82%B4-%EC%86%90-%EC%95%88%EC%97%90-id-%EC%B9%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B0%EB%A6%AC-%EB%AA%A8%EB%B0%94%EC%9D%BC-id/id1481547453) - https://apps.apple.com/kr/app/내-손-안에-id-카드-서비스-우리-모바일-id/id1481547453
+>* [App Store 에서 보기](https://apps.apple.com/kr/app/%EB%82%B4-%EC%86%90-%EC%95%88%EC%97%90-id-%EC%B9%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9A%B0%EB%A6%AC-%EB%AA%A8%EB%B0%94%EC%9D%BC-id/id1481547453)
 
 > 우리은행 - 서울대학교 모바일카드 APP 구축
 >* 2018.11 ~ 2019.03
 >* iOS APP 개발 (Objective-c)
 > - 서울대학교 용 APP 개발 및 App Store 등록
->* [App Store](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-app/id480622894) - https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-app/id480622894
+>* [App Store 에서 보기](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-app/id480622894)
 
 > 우리은행 - 성균관대학교 KINGO-M APP 구축
 >* 2018.02 ~ 2018.07
 >* iOS APP 개발 (Objective-c)
 > - 서울대학교 용 APP 개발 및 App Store 등록
->* [App Store](https://itunes.apple.com/kr/app/id1387421861?mt=8) - https://itunes.apple.com/kr/app/id1387421861?mt=8
+>* [App Store 에서 보기](https://itunes.apple.com/kr/app/id1387421861?mt=8)
 
 > 에스원 - 모바일 내방객 APP 구축
 >* 2017.04 ~ 2017.11
@@ -96,7 +96,7 @@
 >* 2016.09 ~ 2017.03 
 >* iOS APP 개발 및 외부라이러리 업체 리딩 (Objective-c)
 > - 대고객(약 400만명)을 위한 우리페이 1.0 서비스 오픈
->* [App Store](https://itunes.apple.com/kr/app/id1201113419?mt=8) - https://itunes.apple.com/kr/app/id1201113419?mt=8
+>* [App Store 에서 보기](https://itunes.apple.com/kr/app/id1201113419?mt=8)
 
 > 우리은행 - 태블릿브렌치 APP 구축
 >* 2015.12 ~ 2016.02
@@ -107,14 +107,14 @@
 >* 2015.05 ~ 2015.11
 >* iOS APP 개발 
 > - 메인화면 및 통신, 암호화 모듈 담당 (Objective-c)
->* [App Store](https://itunes.apple.com/kr/app/id1031843830?mt=8) - https://itunes.apple.com/kr/app/id1031843830?mt=8
+>* [App Store 에서 보기](https://itunes.apple.com/kr/app/id1031843830?mt=8)
 >* [스마트앱 어워드 2015 "신용카드분야" 대상 ](http://www.i-award.or.kr/Smart/Prize/2015/Awarded01.aspx)
 
 > 우리은행 - 연세대학교 모바일 학생증 APP 구축
 >* 2015.01 ~ 2015.04
 >* iOS APP 개발 (Objective-c)
 > - 연세대학교 용 APP 개발 및 App Store 등록
->* [App Store](https://itunes.apple.com/kr/app/id1026609372?mt=8) - https://itunes.apple.com/kr/app/id1026609372?mt=8
+>* [App Store 에서 보기](https://itunes.apple.com/kr/app/id1026609372?mt=8)
 
 > NH농협 - 모바일 앱카드 구축 및 고도화
 >* 2013.05 ~ 2013.12 / 2014.09 ~ 2014.12
@@ -132,17 +132,17 @@
 > 현대상선 - 모바일 APP 구축
 >* 2012.11 ~ 2013.02
 >* iOS APP 개발 (Objective-c)
->* [App Store](https://itunes.apple.com/kr/app/id590402800?mt=8) - https://itunes.apple.com/kr/app/id590402800?mt=8
+>* [App Store 에서 보기](https://itunes.apple.com/kr/app/id590402800?mt=8)
 
 > 온세통신 - 스노우맨 고객센터 모바일 APP 구축
 >* 2012.09 ~ 2012.11
 >* iOS APP 개발 (Objective-c)
->* [App Store](https://itunes.apple.com/kr/app/id661606972?mt=8) - https://itunes.apple.com/kr/app/id661606972?mt=8
+>* [App Store 에서 보기](https://itunes.apple.com/kr/app/id661606972?mt=8)
 
 > 인픽스 - 메가주소록 모바일 APP 구축
 >* 2012.07 ~ 2012.08
 >* iOS APP 개발 (Objective-c)
->* [App Store](https://itunes.apple.com/kr/app/id540276365?&mt=8) - https://itunes.apple.com/kr/app/id540276365?&mt=8
+>* [App Store 에서 보기](https://itunes.apple.com/kr/app/id540276365?&mt=8)
 
 > 세종문화회관 - 웹사이트 및 패밀리 사이트 운영
 >* 2012.05 ~ 2012.08
