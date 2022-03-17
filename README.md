@@ -1,5 +1,5 @@
 # 이준형 Lee JoonHyoung 
-* Blog : https://joonhyoung.github.io
+* https://joonhyoung.github.io
 * Mail : redsnow78@gmail.com
 
 # 이력서
